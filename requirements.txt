@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+beautifulsoup4
+nltk
+matplotlib
+wordcloud
+pytest
+seaborn

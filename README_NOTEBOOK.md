@@ -1,0 +1,2 @@
+The included notebook `notebooks/analysis.ipynb` visualizes sentiment distribution and a wordcloud of headlines.
+If running locally, install requirements and run `jupyter lab notebooks/analysis.ipynb`.
