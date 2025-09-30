@@ -57,7 +57,7 @@ financial-news-sentiment/
     └── test_sentiment.py # Unit tests for the sentiment module
 ```
 
-## ⚙️ Installation and Setup  
+## ⚙️ Installation and Usage 
 
 ### 1. Clone the Repository  
 ```bash
@@ -89,8 +89,8 @@ Execute the end-to-end example script to fetch data, calculate sentiment, and ou
 jupyter lab notebooks/analysis.ipynb
 ```
 
-### 6. Testing
-Execute the end-to-end example script to fetch data, calculate sentiment, and output results:
+### 6. Unit Testing
+Ensure all data utilities and sentiment scoring models are functioning correctly:
 ```bash
 jupyter lab notebooks/analysis.ipynb
 ```
